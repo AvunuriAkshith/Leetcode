@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AvunuriAkshith/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AvunuriAkshith/Leetcode/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
 ## Interactive
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AvunuriAkshith/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AvunuriAkshith/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/AvunuriAkshith/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AvunuriAkshith/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -99,4 +102,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

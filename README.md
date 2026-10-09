@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AvunuriAkshith/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AvunuriAkshith/Leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/AvunuriAkshith/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/AvunuriAkshith/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AvunuriAkshith/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/AvunuriAkshith/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AvunuriAkshith/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AvunuriAkshith/Leetcode/tree/master/0209-minimum-size-subarray-sum) |

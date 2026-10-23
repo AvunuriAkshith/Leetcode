@@ -1,13 +1,15 @@
 class Solution:
     def buildArray(self, target: list[int], n: int) -> list[str]:
-        ans = []
-        j = 0
-        for num in range(1,n+1):
-            ans.append("Push")
-            if num == target[j]:
-                j+=1
-                if j == len(target):
-                    break
+        result = []
+        index = 0
+        length = len(target)
+        for i in range(1,n+1):
+            if index < length and i == target[index]:
+                result.append("Push")
+                index+=1
             else:
-                ans.append("Pop")
-        return ans
+                result.append("Push")
+                result.append("Pop")
+            if index == length:
+                break
+        return result

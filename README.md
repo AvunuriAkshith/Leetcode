@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AvunuriAkshith/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/AvunuriAkshith/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AvunuriAkshith/Leetcode/tree/master/0136-single-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/AvunuriAkshith/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |

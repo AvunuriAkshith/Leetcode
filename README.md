@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AvunuriAkshith/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AvunuriAkshith/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AvunuriAkshith/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AvunuriAkshith/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Prefix Sum
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/AvunuriAkshith/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AvunuriAkshith/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AvunuriAkshith/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/AvunuriAkshith/Leetcode/tree/master/1544-make-the-string-great) |
 ## Design
 |  |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/AvunuriAkshith/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AvunuriAkshith/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->

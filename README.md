@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AvunuriAkshith/Leetcode/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/AvunuriAkshith/Leetcode/tree/master/1544-make-the-string-great) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AvunuriAkshith/Leetcode/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AvunuriAkshith/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1544-make-the-string-great](https://github.com/AvunuriAkshith/Leetcode/tree/master/1544-make-the-string-great) |
 ## Design
 |  |
 | ------- |

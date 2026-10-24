@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AvunuriAkshith/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AvunuriAkshith/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/AvunuriAkshith/Leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AvunuriAkshith/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AvunuriAkshith/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AvunuriAkshith/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/AvunuriAkshith/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/AvunuriAkshith/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AvunuriAkshith/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AvunuriAkshith/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/AvunuriAkshith/Leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/AvunuriAkshith/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/AvunuriAkshith/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AvunuriAkshith/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -188,5 +191,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/AvunuriAkshith/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AvunuriAkshith/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->

@@ -5,23 +5,24 @@ class Solution:
         n = len(nums)
 
         for i in range(n - 2):
-            # Skip duplicate values for the first element
-            if i > 0 and nums[i] == nums[i - 1]:
+            if i>0 and nums[i] == nums[i-1]:
                 continue
-
-            target = -nums[i]
-            seen = set()
-
-            j = i + 1
-            while j < n:
-                complement = target - nums[j]
-
-                if complement in seen:
-                    result.append([nums[i], complement, nums[j]])
-                    # Skip duplicates for the third element
-                    while j + 1 < n and nums[j] == nums[j + 1]:
-                        j += 1
-                seen.add(nums[j])
-                j += 1
-
+            start = i+1
+            end = n-1
+            while start < end:
+                sum_triplet = nums[i]+ nums[start] + nums[end]
+                if sum_triplet == 0:
+                    result.append([nums[i] ,nums[start], nums[end]])
+                    while start<end and nums[start] == nums[start+1]:
+                        start+=1
+                    while start<end and nums[end] == nums[end-1]:
+                        end-=1
+                    start+=1
+                    end-=1
+                elif sum_triplet <0:
+                    start+=1
+                else:
+                    end-=1
         return result
+
+            

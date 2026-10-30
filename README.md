@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AvunuriAkshith/Leetcode/tree/master/0392-is-subsequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AvunuriAkshith/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AvunuriAkshith/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/AvunuriAkshith/Leetcode/tree/master/1544-make-the-string-great) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AvunuriAkshith/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/AvunuriAkshith/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AvunuriAkshith/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AvunuriAkshith/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AvunuriAkshith/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AvunuriAkshith/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AvunuriAkshith/Leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AvunuriAkshith/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AvunuriAkshith/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AvunuriAkshith/Leetcode/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AvunuriAkshith/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Union-Find
 |  |
 | ------- |

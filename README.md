@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AvunuriAkshith/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AvunuriAkshith/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/AvunuriAkshith/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AvunuriAkshith/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AvunuriAkshith/Leetcode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AvunuriAkshith/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AvunuriAkshith/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/AvunuriAkshith/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AvunuriAkshith/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AvunuriAkshith/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/0344-reverse-string) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AvunuriAkshith/Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/AvunuriAkshith/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/AvunuriAkshith/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/AvunuriAkshith/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/AvunuriAkshith/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AvunuriAkshith/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AvunuriAkshith/Leetcode/tree/master/0169-majority-element) |
@@ -219,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AvunuriAkshith/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AvunuriAkshith/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AvunuriAkshith/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

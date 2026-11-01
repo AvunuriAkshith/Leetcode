@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AvunuriAkshith/Leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/AvunuriAkshith/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AvunuriAkshith/Leetcode/tree/master/0509-fibonacci-number) |
 ## Array
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AvunuriAkshith/Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/AvunuriAkshith/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/AvunuriAkshith/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/AvunuriAkshith/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AvunuriAkshith/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/AvunuriAkshith/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AvunuriAkshith/Leetcode/tree/master/0136-single-number) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AvunuriAkshith/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AvunuriAkshith/Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting

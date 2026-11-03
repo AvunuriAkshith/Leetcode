@@ -1,10 +1,7 @@
 class Solution:
     def minMoves(self, nums: List[int]) -> int:
-        nums.sort()
-        big = nums[-1]
+        big = max(nums)
         count = 0
-        for i in range(len(nums)-1):
-            while(nums[i]!=big):
-                nums[i]+=1
-                count+=1
+        for num in nums:
+            count += big-num
         return count

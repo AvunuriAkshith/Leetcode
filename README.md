@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AvunuriAkshith/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/AvunuriAkshith/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/AvunuriAkshith/Leetcode/tree/master/0509-fibonacci-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AvunuriAkshith/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AvunuriAkshith/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AvunuriAkshith/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AvunuriAkshith/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
 |  |
 | ------- |

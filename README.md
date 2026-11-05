@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AvunuriAkshith/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AvunuriAkshith/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/AvunuriAkshith/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/AvunuriAkshith/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AvunuriAkshith/Leetcode/tree/master/0509-fibonacci-number) |
 ## Array
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AvunuriAkshith/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AvunuriAkshith/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AvunuriAkshith/Leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/AvunuriAkshith/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/AvunuriAkshith/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AvunuriAkshith/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AvunuriAkshith/Leetcode/tree/master/0238-product-of-array-except-self) |

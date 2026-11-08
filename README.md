@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AvunuriAkshith/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AvunuriAkshith/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2094-finding-3-digit-even-numbers](https://github.com/AvunuriAkshith/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AvunuriAkshith/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AvunuriAkshith/Leetcode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/AvunuriAkshith/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Interactive
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/AvunuriAkshith/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AvunuriAkshith/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/AvunuriAkshith/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AvunuriAkshith/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AvunuriAkshith/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AvunuriAkshith/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AvunuriAkshith/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/AvunuriAkshith/Leetcode/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/AvunuriAkshith/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -288,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/AvunuriAkshith/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AvunuriAkshith/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/AvunuriAkshith/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

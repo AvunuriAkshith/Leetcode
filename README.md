@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AvunuriAkshith/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/AvunuriAkshith/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AvunuriAkshith/Leetcode/tree/master/0509-fibonacci-number) |
+| [3693-climbing-stairs-ii](https://github.com/AvunuriAkshith/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Array
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AvunuriAkshith/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AvunuriAkshith/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/AvunuriAkshith/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AvunuriAkshith/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
 |  |

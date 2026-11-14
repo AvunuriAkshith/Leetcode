@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AvunuriAkshith/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AvunuriAkshith/Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/AvunuriAkshith/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/AvunuriAkshith/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/AvunuriAkshith/Leetcode/tree/master/0509-fibonacci-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AvunuriAkshith/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AvunuriAkshith/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/AvunuriAkshith/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AvunuriAkshith/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/AvunuriAkshith/Leetcode/tree/master/0441-arranging-coins) |
 ## Newton's Method
 |  |
 | ------- |

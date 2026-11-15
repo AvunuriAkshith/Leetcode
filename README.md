@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AvunuriAkshith/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AvunuriAkshith/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0997-find-the-town-judge](https://github.com/AvunuriAkshith/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AvunuriAkshith/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## String
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AvunuriAkshith/Leetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/AvunuriAkshith/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [0997-find-the-town-judge](https://github.com/AvunuriAkshith/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AvunuriAkshith/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AvunuriAkshith/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -339,5 +341,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/AvunuriAkshith/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/AvunuriAkshith/Leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->

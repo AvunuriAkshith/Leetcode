@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AvunuriAkshith/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AvunuriAkshith/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/AvunuriAkshith/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/AvunuriAkshith/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/AvunuriAkshith/Leetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/AvunuriAkshith/Leetcode/tree/master/0946-validate-stack-sequences) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AvunuriAkshith/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AvunuriAkshith/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AvunuriAkshith/Leetcode/tree/master/0695-max-area-of-island) |
 ## Quicksort
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AvunuriAkshith/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AvunuriAkshith/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AvunuriAkshith/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/AvunuriAkshith/Leetcode/tree/master/0695-max-area-of-island) |
 | [0872-leaf-similar-trees](https://github.com/AvunuriAkshith/Leetcode/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AvunuriAkshith/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AvunuriAkshith/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AvunuriAkshith/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/AvunuriAkshith/Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -353,5 +357,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AvunuriAkshith/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AvunuriAkshith/Leetcode/tree/master/0695-max-area-of-island) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AvunuriAkshith/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AvunuriAkshith/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/AvunuriAkshith/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AvunuriAkshith/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/AvunuriAkshith/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/AvunuriAkshith/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/AvunuriAkshith/Leetcode/tree/master/0509-fibonacci-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AvunuriAkshith/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AvunuriAkshith/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AvunuriAkshith/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AvunuriAkshith/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AvunuriAkshith/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AvunuriAkshith/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AvunuriAkshith/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AvunuriAkshith/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AvunuriAkshith/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/AvunuriAkshith/Leetcode/tree/master/0209-minimum-size-subarray-sum) |

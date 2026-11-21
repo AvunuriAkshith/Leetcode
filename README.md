@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AvunuriAkshith/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AvunuriAkshith/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AvunuriAkshith/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/AvunuriAkshith/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AvunuriAkshith/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/AvunuriAkshith/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/0344-reverse-string) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AvunuriAkshith/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/AvunuriAkshith/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AvunuriAkshith/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/AvunuriAkshith/Leetcode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AvunuriAkshith/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AvunuriAkshith/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AvunuriAkshith/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AvunuriAkshith/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/AvunuriAkshith/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AvunuriAkshith/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AvunuriAkshith/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/AvunuriAkshith/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AvunuriAkshith/Leetcode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/AvunuriAkshith/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/AvunuriAkshith/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AvunuriAkshith/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/AvunuriAkshith/Leetcode/tree/master/0739-daily-temperatures) |

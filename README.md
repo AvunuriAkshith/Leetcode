@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AvunuriAkshith/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AvunuriAkshith/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AvunuriAkshith/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvunuriAkshith/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/AvunuriAkshith/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/AvunuriAkshith/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AvunuriAkshith/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/AvunuriAkshith/Leetcode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AvunuriAkshith/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AvunuriAkshith/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/AvunuriAkshith/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |

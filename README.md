@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/AvunuriAkshith/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AvunuriAkshith/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/AvunuriAkshith/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [0965-univalued-binary-tree](https://github.com/AvunuriAkshith/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/AvunuriAkshith/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/AvunuriAkshith/Leetcode/tree/master/0695-max-area-of-island) |
 | [0872-leaf-similar-trees](https://github.com/AvunuriAkshith/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [0965-univalued-binary-tree](https://github.com/AvunuriAkshith/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AvunuriAkshith/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AvunuriAkshith/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/AvunuriAkshith/Leetcode/tree/master/0695-max-area-of-island) |
+| [0965-univalued-binary-tree](https://github.com/AvunuriAkshith/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/AvunuriAkshith/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AvunuriAkshith/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/AvunuriAkshith/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [0965-univalued-binary-tree](https://github.com/AvunuriAkshith/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |

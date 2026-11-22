@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/AvunuriAkshith/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AvunuriAkshith/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/AvunuriAkshith/Leetcode/tree/master/1544-make-the-string-great) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AvunuriAkshith/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sorting
 |  |
 | ------- |
